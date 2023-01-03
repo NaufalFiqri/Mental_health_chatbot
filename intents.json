@@ -1,0 +1,154 @@
+{
+    "intents": [
+      {
+        "tag": "greeting",
+        "patterns": [
+          "Hi",
+          "Hey",
+          "How are you",
+          "Is anyone there?",
+          "Hello",
+          "Good day",
+          "Hye"
+        ],
+        "responses": [
+        "\nHey there, your friend are here! I'm sophisticated chatbot designed to assist you with any questions that related to mental health. So, what can I help you dear?"
+        ]
+      },
+      {
+        "tag": "goodbye",
+        "patterns": ["Bye", "See you later", "Goodbye"],
+        "responses": [
+          "Good to help you! See you again."
+        ]
+      },
+      {
+        "tag": "thanks",
+        "patterns": ["Thanks", "Thank you", "That's helpful", "Thank's a lot!"],
+        "responses": ["My pleasure! Happy to help you!"]
+      },
+      {
+        "tag": "Mental health",
+        "patterns": [
+          "What is mental health",
+          "may i know the meaning of mental health?"
+        ],
+        "responses": [  
+          "\n|********************************************************************************************|\n|                                         WHAT IS MENTAL HEALTH?                                     |\n**********************************************************************************************\n\nMental health is a term used to describe emotional, psychological, and social well-being. The quality of a person's mental health is often measured by how adaptively they can cope with everyday stressors."
+        ]
+      },
+      {
+        "tag": "History",
+        "patterns": [
+          "What is history of mental health?",
+          "How does mental health exist?", "history",
+          "Can you tell me about the existance of mental health?"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                       HISTORY OF MENTAL HEALTH                                     |\n**********************************************************************************************\n\nA paper in the World Psychiatry journal states that mental health officially emerged as its own field of study in 1946 during the International Health Conference.\n\nIt was during this conference that the World Health Organization (WHO) was founded. The WHO Constitutions stated that mental well-being is an integral part of overall health, even in the absence of psychiatric illness.\n\nA mental hygiene movement had formed in the United States in 1908. Its goal was to advocate for people who were mentally sick, or people who had psychiatric conditions, in a more humane way as historically, people with mental illnesses were abused, neglected, and lacked adequate care"
+        ]
+      },
+      {
+        "tag": "Causes",
+        "patterns": [
+          "What causes mental illness",
+          "Can you explain causes of mental illness",
+          "causes mental illness"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                        CAUSES OF METAL ILLNESS                                     |\n**********************************************************************************************\n\n>> Early adverse life experiences, such as trauma or a history of abuse (for example, child abuse, sexual assault, witnessing violence, etc.\n>> Experiences related to other ongoing (chronic) medical conditions, such as cancer or diabetes\n>> Biological factors or chemical imbalances in the brain\n>> Use of alcohol or drugs\n>> Having feelings of loneliness or isolation."]
+        },
+      {
+        "tag": "Type of mental illness",
+        "patterns": [
+          "What are types of mental illness?",
+          "Can you tell me the types of mental illness",
+          "types of mental illness"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                         TYPES OF MENTAL ILLNESS                                   |\n**********************************************************************************************\n\n>> Attention Deficit Hyperactivity Disorder\n>> Attention Deficit Hyperactivity Disorder\n>> Agoraphobia\n>> Anorexia Nervosa\n>> Antisocial Personality Disorder\n>> Asperger Syndrome\n>> Attention Deficit Hyperactivity Disorder\n>>  Postpartum Depression\n>> Bi-polar Disorder\n>> Conduct Disorder\n\nPeople can experience different types of mental illnesses or disorders, and they can often occur at the same time. Mental illnesses can occur over a short period of time or be episodic. This means that the mental illness comes and goes with discrete beginnings and ends. Mental illness can also be ongoing or long-lasting."
+        ]
+      },
+      {
+        "tag": "important",
+        "patterns": [
+          "Why is mental health important?",
+          "What are the importants of mental health"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                        IMPORTANT OF MENTAL HEALTH                                 |\n**********************************************************************************************\n\nMental and physical health are equally important components of overall health.  For example, depression increases the risk for many types of physical health problems, particularly long-lasting conditions like diabetes, heart disease, and stroke. Similarly, the presence of chronic conditions can increase the risk for mental illness."
+        ]
+      },
+      {
+        "tag": "change over time",
+        "patterns": [
+          "Can mental health change over time?",
+          "Does mental health can change over time"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                  CAN YOUR MENTAL HEALTH CHANGE OVER TIME?                        |\n**********************************************************************************************\n\nYes, it’s important to remember that a person’s mental health can change over time, depending on many factors.  When the demands placed on a person exceed their resources and coping abilities, their mental health could be impacted. For example, if someone is working long hours, caring for a relative, or experiencing economic hardship, they may experience poor mental health."
+        ]
+      },
+      {
+        "tag": "common",
+        "patterns": [
+          "How common are mental illness?",
+          "How widespread are mental illnesses?"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                      HOW COMMON ARE MENTAL ILLNESS?                              |\n**********************************************************************************************\n\n>> More than 50% will be diagnosed with a mental illness or disorder at some point in their lifetime.\n>> 1 in 5 Americans will experience a mental illness in a given year.\n>> 1 in 5 Americans will experience a mental illness in a given year.\n>> 1 in 25 Americans lives with a serious mental illness, such as schizophrenia, bipolar disorder, or major depression."
+        ]
+      },
+      {
+        "tag": "prevention",
+        "patterns": [
+          "What are preventions of mental illness",
+          "The prevention of mental illness",
+          "How to prevent from getting mental illness?"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                      PREVENTIONS OF MENTAL ILLNESS                              |\n**********************************************************************************************\n\n>> Reduce intake of caffeine, tea, cola, and chocolate.\n>> Before using over-the-counter (OTC) or herbal remedies, check with a doctor or pharmacist for any chemicals that may make anxiety symptoms worse.\n>> Maintain a healthy diet.\n>> Keep a regular sleep pattern.\n>> Avoid alcohol, cannabis, and other recreational drugs."
+        ]
+      },
+      {
+        "tag": "Treatment",
+        "patterns": [
+          "What are the treatments?",
+          "How to manage mental health problems"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                      TREATMENTS OF MENTAL ILLNESS                              |\n**********************************************************************************************\n\nThere are various methods for managing mental health problems. Treatment is highly individual, and what works for one person may not work for another."
+        ]
+      },
+      {
+        "tag": "Anxiety",
+        "patterns": [
+          "What is anxiety disorders?",
+          "anxiety disorders", "what is anxiety?"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                           ANXIETY DISORDERS                                   |\n**********************************************************************************************\n\nAnxiety disorders is a group of mental health disorders that includes generalised anxiety disorders, social phobias, specific phobias (for example, agoraphobia and claustrophobia), panic disorders, obsessive compulsive disorder (OCD) and post-traumatic stress disorder. Untreated, anxiety disorders can lead to significant impairment on people’s daily lives."
+        ]
+      },
+      {
+        "tag": "Depression",
+        "patterns": [
+          "What is anxiety disorders?",
+          "anxiety disorders", "what is anxiety?"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                              DIPRESSION                                      |\n**********************************************************************************************\n\nDepression is a mood disorder characterised by lowering of mood, loss of interest and enjoyment, and reduced energy. It is not just feeling sad. There are different types and symptoms of depression. There are varying levels of severity and symptoms related to depression. Symptoms of depression can lead to increased risk of suicidal thoughts or behaviours."
+        ]
+      },
+      {
+        "tag": "Symptoms of depression",
+        "patterns": [
+          "What are the symptoms of depression?",
+          "can you tell me the symptoms of depression?", "symptoms of depression"
+        ],
+        "responses": [
+          "\n|********************************************************************************************|\n|                                       SYMPTOMS OF DIPRESSION                                 |\n**********************************************************************************************\n\n>> Sad\n>> Miserable\n>>Unhappy\n>>Irritable\n>>Overwhelmed\n>>Guilty\n>>Frustrated\n>> Lacking in confidence\n>> Indecisive\n>> Unable to concentrate\n>> Disappointed.\n>> Withdraw from close family and friends\n>> Stop going out\n>> Stop their usual enjoyable activities\n>> Not get things done at work or school\n>> Being tired all the time\n>> Feeling sick and 'run down'\n>> Sleeps problems"
+        ]
+      }
+    ]
+  }
