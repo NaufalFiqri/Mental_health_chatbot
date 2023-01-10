@@ -15,3 +15,12 @@ Creating and maintaining a feasible plan as part of the planning process will gu
 
 ##### Project Implementation: [Project Implementaion](PMP-Plan/C-PROJECT_IMPLEMENTATION.md)
 The project deliverables, such as the software requirements and the architecture of an intelligent system, are defined during project implementation.
+
+##### Project Execution: [Project Execution](PMP-Plan/D-PROJECT_EXECUTION.md)
+The project execution phase is where the outcome, code components, and technical implementation are specified and documented.
+
+##### Project Closing: [Project Closing](PMP-Plan/E-PROJECT_CLOSING.md)
+Project Closing denotes the point in the project's lifespan that a closing report and lessons learned report are required.
+
+##### Company Organisation: [Company Organisation](PMP-Plan/Z-COMPANY_ORGANIZATION.md)
+View Group J Sdn Bhd's organisational chart.
