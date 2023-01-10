@@ -15,4 +15,3 @@ Creating and maintaining a feasible plan as part of the planning process will gu
 
 ##### Project Implementation: [Project Implementaion](PMP-Plan/C-PROJECT_IMPLEMENTATION.md)
 The project deliverables, such as the software requirements and the architecture of an intelligent system, are defined during project implementation.
-
