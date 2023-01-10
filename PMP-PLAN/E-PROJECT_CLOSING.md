@@ -13,3 +13,19 @@ There are three main ways to build a chatbot and those are using Machine Learnin
  
 ## Outcomes of the system
 This system should receive an input from the user in order for it to react with certain response. It recognizes the user’s queries based on the tag words trained.
+
+![image](https://user-images.githubusercontent.com/96002588/211645623-879dae48-b93a-44f4-ba73-36e0ccfef074.png)
+
+
+## Tasks and Estimated Costs
+| Task	Estimated | Cost |
+| --- | --- |
+| Server Maintenance |	RM 7000 |
+| Expert Supervision	| RM 7500 |
+| Staffs and manpower |	RM 25000 |
+| Equipment and equipment use |	RM 54500 |
+| Total |	RM 94000 |
+
+## Milestone Chart
+![image](https://user-images.githubusercontent.com/96002588/211646937-705870c4-dfb3-4450-9a65-cf476b6e95fb.png)
+![image](https://user-images.githubusercontent.com/96002588/211646954-9c88f6d4-c209-4da2-bc47-ac29d6f1df31.png)
