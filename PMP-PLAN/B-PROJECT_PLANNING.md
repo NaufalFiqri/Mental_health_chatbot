@@ -14,3 +14,7 @@ To map all relevant activities and build the process, a work breakdown structure
 
 Our research intends to create a chatbot for mental health that can comprehend and evaluate a person's mental health through natural language interaction. The chatbot will be able to help people identify and obtain the assistance they require in a discrete, private, and user-friendly manner after being educated on various mental health datasets. The goal is to develop a tool that can help in early detection, management, and treatment of mental health issues while also enhancing overall mental health outcomes. The chatbot will be created to respect user privacy and offer a secure forum for people to talk about their mental health issues.
 
+### Risk Identification Chart (Quality, Cost, Time)
+
+| Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
+|-----|----|-------|-----|
