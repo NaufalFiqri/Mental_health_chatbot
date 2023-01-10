@@ -23,4 +23,4 @@ The project execution phase is where the outcome, code components, and technical
 Project Closing denotes the point in the project's lifespan that a closing report and lessons learned report are required.
 
 ##### Company Organisation: [Company Organisation](PMP-PLAN/Z-COMPANY_ORGANIZATION.md)
-View Group J Sdn Bhd's organisational chart.
+View J Group Sdn Bhd's organisational chart.
