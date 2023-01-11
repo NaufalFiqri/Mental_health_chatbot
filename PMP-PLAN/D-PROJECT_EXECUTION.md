@@ -13,7 +13,7 @@
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Flowchart_Implementation.png)       
  
 
-<br>Description of the project coding and implementation
+<br># Description of the project coding and implementation
  
 First, we install required libraries and packages in order to use their functions. The libraries and packages are as follows:
 <br>numpy = =1.18.1
@@ -57,7 +57,7 @@ The optimizer was also used in the model, where it changed the neural network's 
 
 <br>The GUI of Mental Health Chatbot is implemented by using Tkinter library and get_response method is imported from the chat.py file so that the method will run in GUI to response the user. The GUI is set as follows:
 
-Interfaces	Descriptions
+# Interfaces	Descriptions
 <br>Window size	is 12800 x 720 x 0 x 0 with functionalities of delete and maximize or minimize the size of the frame.
 <br>Window title is "Group J Project NLP"
 <br>Background colour is	green symbolises as breast cancer awareness
@@ -72,7 +72,7 @@ Interfaces	Descriptions
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app1.png)
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app2.png)
  
-<br>Project Result
+<br># Project Result
 Result using Tkinter:
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app3.png)
