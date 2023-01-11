@@ -5,7 +5,7 @@
 ### Project Design and Coding
 
 Flowchart of Chatbot’s functionality
-[<image src ="Flowchart_Functionality.png" width="60%"> ](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Flowchart_Functionality.png)
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Flowchart_Functionality.png "Flowchart_Functionality")
 
 Flowchart of Implementing the Chatbot
 <image src ="Flowchart_Implementation.png" width="60%">         
