@@ -32,7 +32,7 @@ Nltk_utils.py is a Python file that consists of a few methods of basic Natural L
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/nltk_utils.png) 
  
-Implementation of the chatbot is using a model called Feed Forward Neural Network, which consists of a few layers such as an input layer (bag of words), hidden layers, an output layer (number of classes) and the activation function RELU. The torch library is imported into the coding.
+<br>Implementation of the chatbot is using a model called Feed Forward Neural Network, which consists of a few layers such as an input layer (bag of words), hidden layers, an output layer (number of classes) and the activation function RELU. The torch library is imported into the coding.
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/model.png)
  
