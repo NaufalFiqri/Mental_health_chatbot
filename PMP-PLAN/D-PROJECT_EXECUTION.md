@@ -28,7 +28,7 @@ Intents,json is a training data which have different intents. Each intents have 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Intents4.png) 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Intents5.png)
  
-Nltk_utils.py is a Python file that consists of a few methods of basic Natural Language Processing (NLP) such as tokenization, stemming, and bagging of words. In the tokenize method, the sentence is split into an array of words or tokens, and the punctuation characters or numbers are included. The stemming method will generate the root form of the word. For example, "organize," "organizes," and "organises" will become "organ." While the bag of words method takes each stemmed word and places it in an array called "bag of words," which converts it to 1 (known words that exist in the sentence) and 0 (unknown words that do not exist in the sentence).
+<br>Nltk_utils.py is a Python file that consists of a few methods of basic Natural Language Processing (NLP) such as tokenization, stemming, and bagging of words. In the tokenize method, the sentence is split into an array of words or tokens, and the punctuation characters or numbers are included. The stemming method will generate the root form of the word. For example, "organize," "organizes," and "organises" will become "organ." While the bag of words method takes each stemmed word and places it in an array called "bag of words," which converts it to 1 (known words that exist in the sentence) and 0 (unknown words that do not exist in the sentence).
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/nltk_utils.png) 
  
@@ -36,7 +36,7 @@ Nltk_utils.py is a Python file that consists of a few methods of basic Natural L
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/model.png)
  
-Train.py is for the NLP processing pipeline, which combines all the processes. Firstly, the data will tokenize each word in the patterns. Then, the process will do the stemming, which generates the root form of the words and lowers their case. Punctuation characters have been ignored too. After that, the words will be converted into a numerical concept called "bag of words." The data will be trained using a Feed-Forward Neural Network, and the hyper-parameters are set as follows:
+<br>Train.py is for the NLP processing pipeline, which combines all the processes. Firstly, the data will tokenize each word in the patterns. Then, the process will do the stemming, which generates the root form of the words and lowers their case. Punctuation characters have been ignored too. After that, the words will be converted into a numerical concept called "bag of words." The data will be trained using a Feed-Forward Neural Network, and the hyper-parameters are set as follows:
 Number of epochs = 1000
 Batch size = 8
 Learning rate = 0.001
@@ -54,7 +54,8 @@ Implementation of the chatbot starts by loading the trained data (data,pth). The
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/chat.png)
  
-The GUI of Mental Health Chatbot is implemented by using Tkinter library and get_response method is imported from the chat.py file so that the method will run in GUI to response the user. The GUI is set as follows:
+
+<br>The GUI of Mental Health Chatbot is implemented by using Tkinter library and get_response method is imported from the chat.py file so that the method will run in GUI to response the user. The GUI is set as follows:
 
 Interfaces	Descriptions
 Window size	12800 x 720 x 0 x 0 with functionalities of delete and maximize or minimize the size of the frame.
