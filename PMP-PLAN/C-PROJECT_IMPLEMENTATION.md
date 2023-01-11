@@ -29,3 +29,6 @@ This system should receive an input from the user in order for it to react with 
 ## Milestone Chart
 ![image](https://user-images.githubusercontent.com/96002588/211646937-705870c4-dfb3-4450-9a65-cf476b6e95fb.png)
 ![image](https://user-images.githubusercontent.com/96002588/211646954-9c88f6d4-c209-4da2-bc47-ac29d6f1df31.png)
+
+<br><br><br>
+##### Next: [Project Implementation](D-PROJECT_EXECUTION.md)

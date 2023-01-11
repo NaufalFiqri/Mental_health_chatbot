@@ -19,3 +19,6 @@ Objectives:
 <br>•	Provides the system that easy to install and can be interact with the chatbot anytime, anywhere.
 <br>•	Provides an assistance bot capable of giving information specifcally about mental health.
 <br>•	Provides a system for raising public awareness about mental health.
+
+<br><br><br>
+##### Next: [Project Implementation](B-PROJECT_PLANNING.md)
