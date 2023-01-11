@@ -16,6 +16,6 @@ A Mental Health Chatbot is designed to assist the patient with any queries relat
 <br>NAUFAL FIQRI BIN FAUZI   B032010184
 
 Objectives:
-•	Provides the system that easy to install and can be interact with the chatbot anytime, anywhere.
-•	Provides an assistance bot capable of giving information specifcally about mental health.
-•	Provides a system for raising public awareness about mental health.
+<br>•	Provides the system that easy to install and can be interact with the chatbot anytime, anywhere.
+<br>•	Provides an assistance bot capable of giving information specifcally about mental health.
+<br>•	Provides a system for raising public awareness about mental health.
