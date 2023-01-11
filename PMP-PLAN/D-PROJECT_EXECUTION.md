@@ -1,6 +1,6 @@
 # PROJECT OVERVIEW
 
-## D. EXECUTING THE PROJECT
+## EXECUTING THE PROJECT
 
 ### Project Design and Coding
 
