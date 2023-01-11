@@ -37,11 +37,11 @@ Intents,json is a training data which have different intents. Each intents have 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/model.png)
  
 <br>Train.py is for the NLP processing pipeline, which combines all the processes. Firstly, the data will tokenize each word in the patterns. Then, the process will do the stemming, which generates the root form of the words and lowers their case. Punctuation characters have been ignored too. After that, the words will be converted into a numerical concept called "bag of words." The data will be trained using a Feed-Forward Neural Network, and the hyper-parameters are set as follows:
-Number of epochs = 1000
-Batch size = 8
-Learning rate = 0.001
-Input size = number of bag words
-Hidden size = 8
+<br>Number of epochs = 1000
+<br>Batch size = 8
+<br>Learning rate = 0.001
+<br>Input size = number of bag words
+<br>Hidden size = 8
  
 <br>Output size = number of different classes or tags
 The optimizer was also used in the model, where it changed the neural network's attributes such as weights and learning rate to reduce losses. The train will stop until the number of epochs reaches 1000, and the final loss will be displayed in 4 decimal places. Lastly, the trained data will be saved into data.pth.
