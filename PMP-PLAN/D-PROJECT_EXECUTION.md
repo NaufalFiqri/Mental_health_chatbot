@@ -13,7 +13,7 @@
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Flowchart_Implementation.png)       
  
 
-<br># Description of the project coding and implementation
+<br> Description of the project coding and implementation
  
 First, we install required libraries and packages in order to use their functions. The libraries and packages are as follows:
 <br>numpy = =1.18.1
@@ -72,7 +72,7 @@ The optimizer was also used in the model, where it changed the neural network's 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app1.png)
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app2.png)
  
-<br># Project Result
+<br> Project Result
 Result using Tkinter:
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app3.png)
