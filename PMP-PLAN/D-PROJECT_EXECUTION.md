@@ -10,14 +10,12 @@
 <br>Flowchart of Implementing the Chatbot
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Flowchart_Implementation.png)       
  
-
-<b>Description of the project coding and implementation
+Description of the project coding and implementation
  
 First, we install required libraries and packages in order to use their functions. The libraries and packages are as follows:
 numpy = =1.18.1
 torch torchvision torchaudio
 nltk = = 3.7
-
 
 Intents,json is a training data which have different intents. Each intents have different tags, patterns, and responses. Thus, whenever new sentences come in, the bot will classify it in one of these tags and takes the corresponding response.
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Intents1.png)
@@ -27,10 +25,10 @@ Intents,json is a training data which have different intents. Each intents have 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Intents5.png)
  
 Nltk_utils.py is a Python file that consists of a few methods of basic Natural Language Processing (NLP) such as tokenization, stemming, and bagging of words. In the tokenize method, the sentence is split into an array of words or tokens, and the punctuation characters or numbers are included. The stemming method will generate the root form of the word. For example, "organize," "organizes," and "organises" will become "organ." While the bag of words method takes each stemmed word and places it in an array called "bag of words," which converts it to 1 (known words that exist in the sentence) and 0 (unknown words that do not exist in the sentence).
- <image src ="nltk_utils.png" width="60%">  
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/nltk_utils.png) 
  
 Implementation of the chatbot is using a model called Feed Forward Neural Network, which consists of a few layers such as an input layer (bag of words), hidden layers, an output layer (number of classes) and the activation function RELU. The torch library is imported into the coding.
-<image src ="model.png" width="60%">  
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/model.png)
  
 Train.py is for the NLP processing pipeline, which combines all the processes. Firstly, the data will tokenize each word in the patterns. Then, the process will do the stemming, which generates the root form of the words and lowers their case. Punctuation characters have been ignored too. After that, the words will be converted into a numerical concept called "bag of words." The data will be trained using a Feed-Forward Neural Network, and the hyper-parameters are set as follows:
 Number of epochs = 1000
@@ -41,9 +39,9 @@ Hidden size = 8
  
 Output size = number of different classes or tags
 The optimizer was also used in the model, where it changed the neural network's attributes such as weights and learning rate to reduce losses. The train will stop until the number of epochs reaches 1000, and the final loss will be displayed in 4 decimal places. Lastly, the trained data will be saved into data.pth.
-<image src ="train1.png" width="60%">  
-<image src ="train2.png" width="60%">  
-<image src ="train3.png" width="60%"> 
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/train.png) 
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/train2.png)
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/train3.png)
  
 Implementation of the chatbot starts by loading the trained data (data,pth). The get_response method is implemented where it will do tokenization and all words will put in the bag of words. The output will then use SoftMax to get the probability of accuracy of the sentence. The condition is set up at 0.75 of accuracy. If the probability of sentence is more than 0.75, it will classify which tag it belongs to. Hence, the bot will response according to that tag. If less than 0.75, “Sorry, I do not understand…” will be displayed by the chatbot
 <image src ="chat.png" width="60%">  
