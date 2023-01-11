@@ -10,7 +10,8 @@
 <br>Flowchart of Implementing the Chatbot
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Flowchart_Implementation.png)       
  
-Description of the project coding and implementation
+
+<b>Description of the project coding and implementation
  
 First, we install required libraries and packages in order to use their functions. The libraries and packages are as follows:
 numpy = =1.18.1
@@ -19,11 +20,11 @@ nltk = = 3.7
 
 
 Intents,json is a training data which have different intents. Each intents have different tags, patterns, and responses. Thus, whenever new sentences come in, the bot will classify it in one of these tags and takes the corresponding response.
-<image src ="Intents1.png" width="60%">  
-<image src ="Intents2.png" width="60%"> 
-<image src ="Intents3.png" width="60%"> 
-<image src ="Intents4.png" width="60%">  
-<image src ="Intents5.png" width="60%">  
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Intents1.png)
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Intents2.png)
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Intents3.png)
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Intents4.png) 
+![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Intents5.png)
  
 Nltk_utils.py is a Python file that consists of a few methods of basic Natural Language Processing (NLP) such as tokenization, stemming, and bagging of words. In the tokenize method, the sentence is split into an array of words or tokens, and the punctuation characters or numbers are included. The stemming method will generate the root form of the word. For example, "organize," "organizes," and "organises" will become "organ." While the bag of words method takes each stemmed word and places it in an array called "bag of words," which converts it to 1 (known words that exist in the sentence) and 0 (unknown words that do not exist in the sentence).
  <image src ="nltk_utils.png" width="60%">  
