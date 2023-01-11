@@ -10,9 +10,12 @@ A Mental Health Chatbot is designed to assist the patient with any queries relat
 Customer: Befrienders, Kuala Lumpur
 Project Name:  Mental Health Chatbot
 Team Members:
+
 AINA SYAZZWEEN SURAYA BINTI ABDUL LATIF B032010027
-FATIN NAJDAH BINTI NAJMI ISMAIL 
-NAUFAL FIQRI BIN 
+
+FATIN NAJDAH BINTI NAJMI ISMAIL B032010201
+
+NAUFAL FIQRI BIN FAUZI   B032010184
 
 Objectives:
 •	Provides the system that easy to install and can be interact with the chatbot anytime, anywhere.
