@@ -5,10 +5,10 @@
 ### Project Design and Coding
 
 Flowchart of Chatbot’s functionality
-<img src="
+
  
 Flowchart of Implementing the Chatbot
-<src="images/Flowchart_Implementation.png" width="60%">         
+<img src="images/Flowchart_Implementation.png" width="60%">         
  
 Description of the project coding and implementation
 First, we install required libraries and packages in order to use their functions. The libraries and packages are as follows:
