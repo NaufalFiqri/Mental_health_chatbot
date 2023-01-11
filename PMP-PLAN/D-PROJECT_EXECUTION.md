@@ -43,7 +43,7 @@ Learning rate = 0.001
 Input size = number of bag words
 Hidden size = 8
  
-Output size = number of different classes or tags
+<br>Output size = number of different classes or tags
 The optimizer was also used in the model, where it changed the neural network's attributes such as weights and learning rate to reduce losses. The train will stop until the number of epochs reaches 1000, and the final loss will be displayed in 4 decimal places. Lastly, the trained data will be saved into data.pth.
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/train.png) 
@@ -67,7 +67,7 @@ Interfaces	Descriptions
 <br>Head label	“MENTAL HEALTH CHATBOT” is written at the middle of the frame and the colour is pink
 <br>Scroll bar	Scrolling up and down the chat.
 <br>Message entry box	size is 0.74 x 0.06 x 0.011 x 0.008 and place at the bottom of the frame and the colour is green
-Send button size is	0.22 x 0.06 x 0.77 x 0.008, place beside message entry box and has press functionality to send the chat as “You” and the colour of button is green
+<br>Send button size is	0.22 x 0.06 x 0.77 x 0.008, place beside message entry box and has press functionality to send the chat as “You” and the colour of button is green
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app1.png)
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app2.png)
