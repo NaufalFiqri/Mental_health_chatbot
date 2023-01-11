@@ -8,7 +8,9 @@ Mental health is critically important for everyone, everywhere, and goes beyond 
 A Mental Health Chatbot is designed to assist the patient with any queries related to mental health issues. It is designed using basics Natural Language Processing (tokenization, stemming and bag of words) and deep learning which is Feed-Forward Neural Network with 8 hidden layers.  There are 37 tags provided in this system to response user’s questions. No one likes waiting around for a solution. Thus, by messaging the chatbot, the user able to get information as soon as possible.
 
 Customer: Befrienders, Kuala Lumpur
+
 Project Name:  Mental Health Chatbot
+
 Team Members:
 
 AINA SYAZZWEEN SURAYA BINTI ABDUL LATIF B032010027
