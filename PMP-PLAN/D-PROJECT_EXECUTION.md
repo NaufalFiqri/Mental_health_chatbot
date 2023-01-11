@@ -16,9 +16,9 @@
 <br>Description of the project coding and implementation
  
 First, we install required libraries and packages in order to use their functions. The libraries and packages are as follows:
-numpy = =1.18.1
-torch torchvision torchaudio
-nltk = = 3.7
+<br>numpy = =1.18.1
+<br>torch torchvision torchaudio
+<br>nltk = = 3.7
 
 Intents,json is a training data which have different intents. Each intents have different tags, patterns, and responses. Thus, whenever new sentences come in, the bot will classify it in one of these tags and takes the corresponding response.
 
@@ -31,7 +31,7 @@ Intents,json is a training data which have different intents. Each intents have 
 <br>Nltk_utils.py is a Python file that consists of a few methods of basic Natural Language Processing (NLP) such as tokenization, stemming, and bagging of words. In the tokenize method, the sentence is split into an array of words or tokens, and the punctuation characters or numbers are included. The stemming method will generate the root form of the word. For example, "organize," "organizes," and "organises" will become "organ." While the bag of words method takes each stemmed word and places it in an array called "bag of words," which converts it to 1 (known words that exist in the sentence) and 0 (unknown words that do not exist in the sentence).
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/nltk_utils.png) 
- 
+<br>
 <br>Implementation of the chatbot is using a model called Feed Forward Neural Network, which consists of a few layers such as an input layer (bag of words), hidden layers, an output layer (number of classes) and the activation function RELU. The torch library is imported into the coding.
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/model.png)
