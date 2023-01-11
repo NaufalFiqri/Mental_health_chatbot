@@ -50,7 +50,7 @@ The optimizer was also used in the model, where it changed the neural network's 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/train2.png)
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/train3.png)
  
-Implementation of the chatbot starts by loading the trained data (data,pth). The get_response method is implemented where it will do tokenization and all words will put in the bag of words. The output will then use SoftMax to get the probability of accuracy of the sentence. The condition is set up at 0.75 of accuracy. If the probability of sentence is more than 0.75, it will classify which tag it belongs to. Hence, the bot will response according to that tag. If less than 0.75, “Sorry, I do not understand…” will be displayed by the chatbot
+<br>Implementation of the chatbot starts by loading the trained data (data,pth). The get_response method is implemented where it will do tokenization and all words will put in the bag of words. The output will then use SoftMax to get the probability of accuracy of the sentence. The condition is set up at 0.75 of accuracy. If the probability of sentence is more than 0.75, it will classify which tag it belongs to. Hence, the bot will response according to that tag. If less than 0.75, “Sorry, I do not understand…” will be displayed by the chatbot
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/chat.png)
  
@@ -58,17 +58,16 @@ Implementation of the chatbot starts by loading the trained data (data,pth). The
 <br>The GUI of Mental Health Chatbot is implemented by using Tkinter library and get_response method is imported from the chat.py file so that the method will run in GUI to response the user. The GUI is set as follows:
 
 Interfaces	Descriptions
-Window size	12800 x 720 x 0 x 0 with functionalities of delete and maximize or minimize the size of the frame.
-Window title	Group J Project NLP
-Background colour	Green symbolises as breast cancer awareness
-Text colour	Black
-Font	Brixton
-Font size	13
-Head label	“MENTAL HEALTH CHATBOT” is written at the middle of the frame and the colour is pink
-Scroll bar	Scrolling up and down the chat.
-
-Message entry box	0.74 x 0.06 x 0.011 x 0.008 place at the bottom of the frame and the colour is green
-Send button	0.22 x 0.06 x 0.77 x 0.008 place beside message entry box and has press functionality to send the chat as “You” and the colour of button is green
+<br>Window size	is 12800 x 720 x 0 x 0 with functionalities of delete and maximize or minimize the size of the frame.
+<br>Window title is "Group J Project NLP"
+<br>Background colour is	green symbolises as breast cancer awareness
+<br>Text colour	is black
+<br>Font	Brixton
+<br>Font size	13
+<br>Head label	“MENTAL HEALTH CHATBOT” is written at the middle of the frame and the colour is pink
+<br>Scroll bar	Scrolling up and down the chat.
+<br>Message entry box	size is 0.74 x 0.06 x 0.011 x 0.008 and place at the bottom of the frame and the colour is green
+Send button size is	0.22 x 0.06 x 0.77 x 0.008, place beside message entry box and has press functionality to send the chat as “You” and the colour of button is green
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app1.png)
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app2.png)
