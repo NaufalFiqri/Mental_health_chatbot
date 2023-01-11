@@ -31,4 +31,4 @@ This system should receive an input from the user in order for it to react with 
 ![image](https://user-images.githubusercontent.com/96002588/211646954-9c88f6d4-c209-4da2-bc47-ac29d6f1df31.png)
 
 <br><br><br>
-##### Next: [Project Implementation](D-PROJECT_EXECUTION.md)
+##### Next: [Project Execution](D-PROJECT_EXECUTION.md)

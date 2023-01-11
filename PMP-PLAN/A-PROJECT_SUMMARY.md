@@ -21,4 +21,4 @@ Objectives:
 <br>•	Provides a system for raising public awareness about mental health.
 
 <br><br><br>
-##### Next: [Project Implementation](B-PROJECT_PLANNING.md)
+##### Next: [Project Planning](B-PROJECT_PLANNING.md)
