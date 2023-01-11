@@ -19,6 +19,8 @@ Our research intends to create a chatbot for mental health that can comprehend a
 | Control Element | What is likely to go wrong? | How and when will I know? | What will I do about it? |
 |-----|----|-------|-----|
 |Quality <br> (A poor quality mindset, poor design, poor materials, poor craftsmanship, and a weak quality assurance programme)|
+|Cost <br> (Errors in estimation; insufficient productivity, cost, change, or contingency)|
+|Time <br> (Flawed allocation and management of float, early release of rival goods, flaws in forecasting time or resource availability, problems in identifying the critical route.)|
 
 ### Responsibility Assignment Matrices (RAM)
 
