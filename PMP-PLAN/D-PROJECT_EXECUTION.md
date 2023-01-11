@@ -72,8 +72,8 @@ Interfaces	Descriptions
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app1.png)
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app2.png)
  
-<br> Project Result
-Result using Tkinter:
+<br>Project Result
+<br>Result using Tkinter:
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/app3.png)
 
