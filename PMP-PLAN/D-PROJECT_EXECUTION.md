@@ -12,7 +12,8 @@
 
 ![alt text](https://github.com/NaufalFiqri/Mental_health_chatbot/blob/main/src/images/Flowchart_Implementation.png)       
  
-Description of the project coding and implementation
+
+<br>Description of the project coding and implementation
  
 First, we install required libraries and packages in order to use their functions. The libraries and packages are as follows:
 numpy = =1.18.1
