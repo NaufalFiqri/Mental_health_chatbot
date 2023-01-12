@@ -1,5 +1,5 @@
 # Mental Health Chatbot
-This research seeks to identify and detect users' mental health. This project makes use of Deep Learning (DL) and Convolutional Neural Networks (CNN) as examples of Artificial Intelligence (AI) techniques.
+This research seeks to identify and detect users' mental health. This project makes use of Deep Learning (DL) of Feed Forward Neural Networks (CNN) and basic Natural Languange Processing (NLP) approach as examples of Artificial Intelligence (AI) techniques.
 
 The development of this project adheres to the Project Management Plan (PMP) for better organisation of the project lifecycle. The project is managed using a variety of charting techniques, including Gantt charts, milestone charts, and work breakdown structures (WBS).
 
