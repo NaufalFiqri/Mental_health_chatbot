@@ -7,7 +7,7 @@ The Gantt Chart used to describe and document the project management life cycle 
 
 The Gantt Chart below shows the project management WBS:
 
-<img src="assets/wbs with gantt chart.png" width="100%">
+<img src="assets/Mental Health Chatbot Project Management.png" width="100%">
 
 ### Scope
 To map all relevant activities and build the process, a work breakdown structure (WBS) is built. The WBS will be updated and approved.
