@@ -1,5 +1,7 @@
 # PROJECT CLOSING
 
+## E. COMPLETING THE PROJECT
+
 ## Project Completion Form / Customer Acceptance Form
 
 ![image](https://user-images.githubusercontent.com/96002588/211647612-2490c7d7-b364-431f-a238-7e83bcc1cc78.png)
